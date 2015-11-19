@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/Settings"/>
+    <item
+        android:id="@+id/map_type"
+        app:showAsAction="never"
+        android:title="@string/map_type"
+        android:checkable="true"
+        />
+
+</menu>
