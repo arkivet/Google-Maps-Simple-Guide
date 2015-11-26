@@ -2,193 +2,193 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-5d2c1073dcc92d8cb4d592c1ab32c4306746fd91.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-c310cef274b5acbd83e705bba4c9e318d6d6c8fa.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-d339d2648d8ae921f4465e3fe91fdf52f4dcf52c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-8f0ad38e56497cc8c362e673bcd79f133c9bf196.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-0fc328b143a438ec82c5008252b9f2ee525426d3.jar" />
     </item>
     <item
         jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-c328938951177b3fe1152ee3eeb2a42d9f14154f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-02c47f0993039f6776dafb1e16c4575af60ebfb0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-55ae1792010bef5b4e599226abd054012043a577.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-00a81867c52c21a1df27cb8018d7f3f26542097f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-c0fc4be08114ebf8942fe75f1c34f5140d2b0523.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-80b020dd6202cd806a48c411f376b39a05a06bfd.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-31c1d9df2be8478274a6a22ff37a35b15a6ae0fe.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-acd375b42988fb553fe739067923682ab0885395.jar" />
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-c328938951177b3fe1152ee3eeb2a42d9f14154f.jar" />
     </item>
     <item
         jar="C:\Users\Srdjan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-60fcbb3aa5cb000a7f98ec76649cf4e9217904d2.jar" />
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-60fcbb3aa5cb000a7f98ec76649cf4e9217904d2.jar" />
     </item>
     <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-274787da3db15fb6710ebb1cbd93cc0d5dbc6c0d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-dda87d08ad18df57ed7db5c23a31ac492b0816c3.jar" />
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-8f0ad38e56497cc8c362e673bcd79f133c9bf196.jar" />
     </item>
     <item
         jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-35631bbf4c2ad6c84b37895eb0814d7462856bd0.jar" />
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-35631bbf4c2ad6c84b37895eb0814d7462856bd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-d339d2648d8ae921f4465e3fe91fdf52f4dcf52c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-31c1d9df2be8478274a6a22ff37a35b15a6ae0fe.jar" />
     </item>
     <item
         jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-f1f725d60c3f5184d70fc6442d8aa0265c79c819.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-2e280b2610e0eab0595219bf60ca4592862bb98b.jar" />
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-f1f725d60c3f5184d70fc6442d8aa0265c79c819.jar" />
     </item>
     <item
         jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-201281beb08ffb3a4f440a995e1586dce8af79a3.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2e24e5f1b11170163028277de63f709e42525db4">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-6fc779036cfc6390b1eb99043969570f0254e6c2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-82af7c2462f9ef75eaa4c3cf9a7f98cb12cfca62.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-d09f6cb03906bd769eefe8c1440c302929c03f45.jar" />
-    </item>
-    <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-4c6b17262c2bb8cedbb7d07666e4a100afc03e5c.jar" />
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-201281beb08ffb3a4f440a995e1586dce8af79a3.jar" />
     </item>
     <item
         jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-f51311c382584ff7b2414517b99de43da6893c47.jar" />
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-f51311c382584ff7b2414517b99de43da6893c47.jar" />
     </item>
     <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-cd6d72353912f5dc674c5b285d39b5fbb14f2fbb.jar" />
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-80b020dd6202cd806a48c411f376b39a05a06bfd.jar" />
     </item>
     <item
-        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-0fc328b143a438ec82c5008252b9f2ee525426d3.jar" />
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-4c6b17262c2bb8cedbb7d07666e4a100afc03e5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-5d2c1073dcc92d8cb4d592c1ab32c4306746fd91.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-55ae1792010bef5b4e599226abd054012043a577.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-02c47f0993039f6776dafb1e16c4575af60ebfb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-82af7c2462f9ef75eaa4c3cf9a7f98cb12cfca62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-6fc779036cfc6390b1eb99043969570f0254e6c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-dda87d08ad18df57ed7db5c23a31ac492b0816c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-acd375b42988fb553fe739067923682ab0885395.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-274787da3db15fb6710ebb1cbd93cc0d5dbc6c0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-d09f6cb03906bd769eefe8c1440c302929c03f45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-2e280b2610e0eab0595219bf60ca4592862bb98b.jar" />
     </item>
     <item
         jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\debug\classes-1e8b6ce893c3a2387aadf9a988f10a8d0cc9a85c.jar" />
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-1e8b6ce893c3a2387aadf9a988f10a8d0cc9a85c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-cd6d72353912f5dc674c5b285d39b5fbb14f2fbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-c0fc4be08114ebf8942fe75f1c34f5140d2b0523.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\classes-00a81867c52c21a1df27cb8018d7f3f26542097f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Srdjan\AndroidStudioProjects\StudentProjekt\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-c310cef274b5acbd83e705bba4c9e318d6d6c8fa.jar" />
     </item>
 
 </items>
